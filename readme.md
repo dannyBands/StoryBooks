@@ -13,5 +13,4 @@ This app was built using Node.js, Express, MongoDB, and Passport with a Google O
 
 
 ## Links
-I made this app following Traversy Media's video on Node.js. It can be found [here]
-(https://youtu.be/SBvmnHTQIPY)
+I made this app following Traversy Media's video on Node.js. It can be found [here](https://youtu.be/SBvmnHTQIPY)
